@@ -1,4 +1,4 @@
-# LinFun
+# LinFun-ImmersiveForest
 
 This is the repository for the LinFun demo app Immersive Forest made for the Nasa Space Apps Challenge Hackathon April 22-24th 2016.
 The app will work on Android devices.
